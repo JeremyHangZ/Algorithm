@@ -1,10 +1,10 @@
 package LinkedList;
 
-public class MyLinkedList {
+public class MyLinkedList_707 {
     int size;
     ListNode head;
 
-    public MyLinkedList() {
+    public MyLinkedList_707() {
         // 链表长度
         size = 0;
 
