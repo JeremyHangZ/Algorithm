@@ -1,6 +1,6 @@
 package LinkedList;
 
-public class ReverseList {
+public class ReverseList_206 {
     public ListNode reverseList(ListNode head) {
         ListNode pre = null;
         ListNode cur = head;
