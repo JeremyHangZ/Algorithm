@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93af081-3a7f-4ec4-a72e-6621b82f9f53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/GetIntersectionNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c93af081-3a7f-4ec4-a72e-6621b82f9f53" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +81,7 @@
       <workItem from="1719622205398" duration="29000" />
       <workItem from="1719622246298" duration="16000" />
       <workItem from="1719622270636" duration="214000" />
-      <workItem from="1719622493714" duration="6780000" />
+      <workItem from="1719622493714" duration="7374000" />
     </task>
     <servers />
   </component>
