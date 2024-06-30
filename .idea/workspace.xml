@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93af081-3a7f-4ec4-a72e-6621b82f9f53" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Strings/ReverseString2_541.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/ReverseString2_541.java" afterDir="false" />
-    </list>
+    <list default="true" id="c93af081-3a7f-4ec4-a72e-6621b82f9f53" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +82,7 @@
       <workItem from="1719622246298" duration="16000" />
       <workItem from="1719622270636" duration="214000" />
       <workItem from="1719622493714" duration="12955000" />
-      <workItem from="1719712644746" duration="13586000" />
+      <workItem from="1719712644746" duration="14200000" />
     </task>
     <servers />
   </component>
