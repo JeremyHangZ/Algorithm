@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93af081-3a7f-4ec4-a72e-6621b82f9f53" name="Changes" comment="" />
+    <list default="true" id="c93af081-3a7f-4ec4-a72e-6621b82f9f53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Strings/ReverseWords_151.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hash/FourSum_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hash/FourSum_18.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +42,7 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Application.BinarySearch_704.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceNums.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -82,7 +87,9 @@
       <workItem from="1719622246298" duration="16000" />
       <workItem from="1719622270636" duration="214000" />
       <workItem from="1719622493714" duration="12955000" />
-      <workItem from="1719712644746" duration="14200000" />
+      <workItem from="1719712644746" duration="14688000" />
+      <workItem from="1719814239974" duration="5156000" />
+      <workItem from="1719889844359" duration="1313000" />
     </task>
     <servers />
   </component>
