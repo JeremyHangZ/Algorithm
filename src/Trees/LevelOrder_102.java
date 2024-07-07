@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * 给你二叉树的根节点 root ，返回其节点值的 层序遍历 。 （即逐层地，从左到右访问所有节点）。
  */
-public class LevelOrder {
+public class LevelOrder_102 {
 
     public List<List<Integer>> levelOrder(MyTreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
