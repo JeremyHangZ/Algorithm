@@ -35,6 +35,8 @@ public class LevelOrder_102 {
             }
             result.add(integers);
         }
+        // 反转之后从底层到高层
+        // Collections.reverse(result);
         return result;
     }
 }
