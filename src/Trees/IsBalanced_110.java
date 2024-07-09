@@ -30,6 +30,6 @@ public class IsBalanced_110 {
             return -1;
         }
 
-        return Math.max(leftHeight, rightHeight);
+        return Math.max(leftHeight, rightHeight) + 1;
     }
 }
